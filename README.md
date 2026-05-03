@@ -25,9 +25,9 @@ RESULTS BRIEF & RECOMMENDATIONS PROPOSAL
 You will need to upload these in a similar way that the "Hook" and "Rubric" documents were added to this GitHub.
 
 
-REFERENCES
+SUPPORTING DOCUMENTS
 
-The links are included below, but if you would like to access a pdf version of them they can be accessed in the References directory.
+The links are included below, but if you would like to access a pdf version of them they can be accessed in the Supporting Documents directory.
 
 Customer Feedback Analysis- Text Analysis: [https://www.basic.ai/blog-post/image-recognition](https://medium.com/@pushkarsaini18/customer-feedback-analysis-text-analysis-55122a8e74de)
 
