@@ -4,21 +4,26 @@ This repository contains materials relevant to DS 4002, Case Study Three, Evalua
 Provided Documents
 Read the provideed hook and rubric documents to understand the case study context and required deliverables. The hook document is in a file named CS3 - Hook Document, and the rubric is named Case Study Rubric. Adhere to the instructions outlined in these files for a successful case study.
 
+
 DATA
 
 Check the Data directory for the latest version of the dataset that you will add to.
+
 
 SCRIPTS
 
 The Scripts directory contains the Python Colab notebook used during the project - use it as reference when reproducing the results.
 
+
 OUTPUTS
 
 Check the Outputs directory for all plots generated during the project - use it as reference when reproducing the results.
 
+
 RESULTS BRIEF & RECOMMENDATIONS PROPOSAL
 
 You will need to upload these in a similar way that the "Hook" and "Rubric" documents were added to this GitHub.
+
 
 REFERENCES
 
